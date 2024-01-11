@@ -1,0 +1,22 @@
+:root {
+    --color-titel:red;
+    --color-text-primary:green;
+    --color-active:blue;
+}
+
+#title {
+    color: turquoise;
+    font-size: 20px;
+}
+
+.text {
+    color: blueviolet;
+    font-style: italic;
+    font-size: 50px;
+    text-align: center;
+}
+
+#title {
+    color: red;
+    font-size: 20px;
+}
