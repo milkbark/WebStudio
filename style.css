@@ -98,7 +98,7 @@ font-weight: 700;
 letter-spacing: 1.08px;
 }
 
-.bark{
+.item{
     color: #212121;
     font-family: Roboto,serif;
     font-size: 16px;
@@ -108,7 +108,7 @@ letter-spacing: 1.08px;
     letter-spacing: 0.48px;
 }
 
-.bar{
+.list{
     color: #757575;
     font-family: Roboto,serif;
     font-size: 16px;
@@ -118,7 +118,7 @@ letter-spacing: 1.08px;
     letter-spacing: 0.48px;
 }
 
-.bark1{
+.item1{
     color: #212121;
     font-family: Roboto,serif;
     font-size: 16px;
@@ -128,7 +128,7 @@ letter-spacing: 1.08px;
     letter-spacing: 0.48px;
 }
 
-.bar1{
+.list1{
     color: #757575;
     font-family: Roboto,serif;
     font-size: 16px;
@@ -138,7 +138,7 @@ letter-spacing: 1.08px;
     letter-spacing: 0.48px;
 }
 
-.bark2{
+.item2{
     color: #212121;
     font-family: Roboto,serif;
     font-size: 16px;
@@ -148,7 +148,7 @@ letter-spacing: 1.08px;
     letter-spacing: 0.48px;
 }
 
-.bar2{
+.list2{
     color: #757575;
     font-family: Roboto,serif;
     font-size: 16px;
@@ -158,7 +158,7 @@ letter-spacing: 1.08px;
     letter-spacing: 0.48px;
 }
 
-.bark3{
+.item3{
     color: #212121;
     font-family: Roboto,serif;
     font-size: 16px;
@@ -168,7 +168,7 @@ letter-spacing: 1.08px;
     letter-spacing: 0.48px;
 }
 
-.bar3{
+.list3{
     color: #757575;
     font-family: Roboto,serif;
     font-size: 16px;
