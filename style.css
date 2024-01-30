@@ -9,20 +9,15 @@
     font-size: 20px;
 }
 
-.text {
-    color: blueviolet;
-    font-style: italic;
-    font-size: 50px;
-    text-align: center;
-}
-
 #title {
     color: red;
     font-size: 20px;
 }
+ body{
+    font-family: Roboto;
+ }
 
-
-.wrap {
+.header-logo{
     color: #2196F3;
     font-family: Raleway;
     font-size: 26px;
@@ -33,20 +28,9 @@
    
 }
 
-#wrap1{
-    color: #000;
-font-family: Raleway;
-font-size: 26px;
-font-style: normal;
-font-weight: 700;
-line-height: normal;
-letter-spacing: 0.78px;
-}
 
-
-ul:first-child{
+.nav-link{
     color: #212121;
-font-family: Roboto;
 font-size: 14px;
 font-style: normal;
 font-weight: 500;
@@ -54,20 +38,10 @@ line-height: normal;
 letter-spacing: 0.28px;
 }
 
-ul:nth-child(3){
-    color: #757575;
-font-family: Roboto;
-font-size: 14px;
-font-style: normal;
-font-weight: 500;
-line-height: normal;
-letter-spacing: 0.28px;
-}
 
-h1:nth-child(1){
+.servises-subtitle{
     color: #020202;
 text-align: center;
-font-family: Roboto, serif;
 font-size: 44px;
 font-style: normal;
 font-weight: 900;
@@ -79,7 +53,6 @@ text-transform: uppercase;
 .button{
     color: #0f0e0e;
 text-align: center;
-font-family: Roboto, serif;
 font-size: 16px;
 font-style: normal;
 font-weight: 700;
@@ -87,10 +60,9 @@ line-height: 30px;
 letter-spacing: 0.96px;
 }
 
-h2{
+.servises-title{
     color: #212121;
     text-align: center;
-    font-family: Roboto;
     font-size: 36px;
     font-style: normal;
     font-weight: 700;
@@ -99,9 +71,8 @@ h2{
 }
 
 
-.item{
+.services-item-title{
     color: #212121;
-    font-family: Roboto,serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
@@ -109,9 +80,8 @@ h2{
     letter-spacing: 0.48px;
 }
 
-.list{
+.services-item-text{
     color: #757575;
-    font-family: Roboto,serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
@@ -121,23 +91,21 @@ h2{
 
 
 
-.clas{
-    color: #000000;
-font-family: Raleway, serif;
-font-size: 26px;
-font-style: normal;
-font-weight: 700;
-line-height: normal;
-letter-spacing: 0.78px;
+.services-item{
+    color: #2196F3;
+    font-family: Raleway;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 0.78px;
 }
-
-.clas1{
+.cservices-item1{
     color: #151414;
-    font-family: Roboto,serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
-    line-height: 24px;
+    line-height: 1.71px;
     letter-spacing: 0.42px;
 }
 
