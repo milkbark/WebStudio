@@ -4,18 +4,23 @@
     --color-active:blue;
 }
 
+
 #title {
     color: turquoise;
     font-size: 20px;
 }
 
+
 #title {
-    color: red;
+    color: var(--color-titel);
     font-size: 20px;
 }
+
+
  body{
     font-family: Roboto;
  }
+
 
 .header-logo{
     color: #2196F3;
@@ -38,8 +43,16 @@ line-height: normal;
 letter-spacing: 0.28px;
 }
 
+.contact-link{
+    color: grey;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 0.28px;
+}
 
-.servises-subtitle{
+.hero.title{
     color: #020202;
 text-align: center;
 font-size: 44px;
@@ -49,6 +62,7 @@ line-height: 60px;
 letter-spacing: 2.64px;
 text-transform: uppercase;
 }
+
 
 .button{
     color: #0f0e0e;
@@ -60,7 +74,8 @@ line-height: 30px;
 letter-spacing: 0.96px;
 }
 
-.servises-title{
+
+.work-title{
     color: #212121;
     text-align: center;
     font-size: 36px;
@@ -80,6 +95,7 @@ letter-spacing: 0.96px;
     letter-spacing: 0.48px;
 }
 
+
 .services-item-text{
     color: #757575;
     font-size: 16px;
@@ -90,8 +106,7 @@ letter-spacing: 0.96px;
 }
 
 
-
-.services-item{
+.footer-logo{
     color: #2196F3;
     font-family: Raleway;
     font-size: 26px;
@@ -100,12 +115,14 @@ letter-spacing: 0.96px;
     line-height: normal;
     letter-spacing: 0.78px;
 }
-.cservices-item1{
+
+
+.footer-item{
     color: #151414;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
-    line-height: 1.71px;
+    line-height: 1.71;
     letter-spacing: 0.42px;
 }
 
